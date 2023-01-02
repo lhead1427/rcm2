@@ -1,6 +1,6 @@
 anytree
 apscheduler
-aria2p
+git+https://github.com/rajanvibes/amriac2mp
 bencoding
 beautifulsoup4
 cfscrape
@@ -21,12 +21,12 @@ pymongo
 pyrogram
 python-dotenv
 python-magic
-qbittorrent-api
+git+https://github.com/rajanvibes/qmbittomrrent-ampi
 requests
-speedtest-cli
+git+https://github.com/rajanvibes/speemdtemst-cmli
 telegraph
 tenacity
 tgCrypto
 xattr
-yt-dlp
+git+https://github.com/rajanvibes/ymt-dmlp
 
